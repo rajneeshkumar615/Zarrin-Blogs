@@ -954,11 +954,11 @@ copies or substantial portions of the Software.
 <table>
   <tr>
     <td align="center">
-      <strong>Your Name</strong><br/>
+      <strong>Rajneesh Kumar</strong><br/>
       Full-Stack Engineer<br/>
       <a href="https://github.com/your-username">GitHub</a> ·
-      <a href="https://linkedin.com/in/your-profile">LinkedIn</a> ·
-      <a href="mailto:you@example.com">Email</a>
+      <a href="https://www.linkedin.com/in/rajneesh-kumar615/">LinkedIn</a> ·
+      <a href="https://github.com/rajneeshkumar615">Email</a>
     </td>
   </tr>
 </table>
