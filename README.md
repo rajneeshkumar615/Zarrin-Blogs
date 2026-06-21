@@ -958,7 +958,7 @@ copies or substantial portions of the Software.
       Full-Stack Engineer<br/>
       <a href="https://github.com/your-username">GitHub</a> ·
       <a href="https://www.linkedin.com/in/rajneesh-kumar615/">LinkedIn</a> ·
-      <a href="https://github.com/rajneeshkumar615">Email</a>
+      <a href="kumarajneesh008@gmail.com">Email</a>
     </td>
   </tr>
 </table>
